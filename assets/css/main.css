@@ -441,9 +441,10 @@ ul.icons {
     ul.icons li:last-child {
       padding-right: 0; }
     ul.icons li .icon:before {
-      font-size: 3em; }
+      font-size: 4em; }
     ul.icons li a {
       color: inherit; }
+
 
 /* Form */
 form {
