@@ -425,6 +425,7 @@ ol {
 
 ul {
   list-style: disc;
+	font-size: 70%;
   margin: 0 0 2em 0;
   padding-left: 1em; }
   ul li {
