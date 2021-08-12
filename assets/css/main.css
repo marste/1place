@@ -394,6 +394,7 @@ header h6 + p {
 .icon {
   text-decoration: none;
   border-bottom: none;
+  font-size: 3em;
   position: relative; }
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
